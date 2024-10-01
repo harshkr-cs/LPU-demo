@@ -1,3 +1,4 @@
 # LPU-demo
-Learn Git and GitHub
+Learn Git and GitHub.
+<br>
 Author - Harsh Kumar
